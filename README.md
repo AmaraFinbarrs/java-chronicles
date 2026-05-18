@@ -4,12 +4,15 @@ This will include timestamped learning details to show progress.
 
 I am learning using "Complete Java Development: Spring Boot, Microservices, Spring AI" by Telusko on Youtube. Youtube video link: [Go to video](https://www.youtube.com/watch?v=q6z_UCBM5Ek&t=2784s)
 
-Java Version: 17.0.18
-Javac version: 17.0.10
-OS: Ubuntu
+## Current Stack
+
+### 17-05-2026
+- Java Version: 17.0.18
+- Javac version: 17.0.10
+- OS: Ubuntu
 
 ## Daily Learning
-### 17 May 2026
+### 17-05-2026
 
 Today I learned about the following
 - Java Compiler and JDK: Important to write and run java on any device

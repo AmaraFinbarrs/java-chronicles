@@ -22,4 +22,6 @@ Today I learned about the following
 - JRE contains the JVM and other library used to write java
 - It is good to use a java version that has Long Term Support (LTE) meaning it is still being maintained.
 - When writing java, there is a main file where all other files are called from. This is the file that the java compiler converts into byte code. And it is this byte code that the JVM understands as it does not understand raw java code. The byte code is also one file.
+- The main file contains a class and a method with the signature I acronymed (PSVMSA) mean "public static void main (string a[])"
+- jshell. The java command line tool use to run java code without the overhead of classes, methods and main file.
 

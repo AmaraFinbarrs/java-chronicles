@@ -12,7 +12,10 @@ I am learning using "Complete Java Development: Spring Boot, Microservices, Spri
 - OS: Ubuntu
 
 ## Daily Learning
-### 17-05-2026
+### Core Java
+#### 17-05-2026
+
+Youtube timestamp 00:00:00 to 00:45:00
 
 Today I learned about the following
 - Java Compiler and JDK: Important to write and run java on any device

@@ -38,7 +38,7 @@ Today I learned about the following:
 - Primitive Datatypes can be further broken down into integer (int), float, character (char) and Boolean (bool).
 - Integer can be further broken down into bytes, short, long, etc
 - Float can be further broken down into float and double.
-- Datatypes need to be obviously stated such as float and long e.g 2.5f and 345l
+- Some datatypes need to be obviously stated such as float and long e.g 2.5f and 345l unless they default to double and interger
 - Implicit and explicit type casting
 - Implicit type casting is a the act of converting similar datatypes from a datatype with less storage space to one of higher storage space e.g. bytes to short, float to double
 - Explicit type casting makes the opposite of implicit casting possible but it requires explicitly calling the target datatype which always has lesser storage. 
@@ -50,3 +50,14 @@ Today I learned about the following:
 - Loops: While, Do while, For
 - Ensure to end java statements with ;
 
+#### 21-05-2026
+
+**Youtube timestamp 2:30:00 - 03:45:50**
+
+Today I learned the following
+
+- Debugging with vs code using breakpoints and step over.
+- Object oriented programming with java which includes creating classes outside of the main class and creating objects using the outside classes within the main method of the main class. These outside classes serve as blueprint for the objects.
+- Reference variable, local variables, instance variables.
+- Variables are stored in the stack of JVM while objects are stored in heaps. Instance variables and methods of an object are stored within the heap with a reference. And the a reference varaible in a stack outside the heap points to the reference of the object.
+- Method overloading, a completely valid way of assigining several methods the same name as long as the input parameters are different based on quanity or datatype e.g add(int a, int b), add(double a, double b), add(int a, int b, int c)
